@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "超える",
+  "base_artist": "[Alexandros]",
+  "createdAt": "2025-12-01T15:53:05.684275Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "超える",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/01_超える_[Alexandros].lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "超える - Koeru",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/02_超える_-_Koeru_[Alexandros].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "超える",
+      "artist": "[Alexandros]",
+      "has_synced": false,
+      "path": "select/pl_01_超える_[Alexandros].txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "超える",
+      "artist": "[Alexandros]",
+      "has_synced": false,
+      "path": "select/pl_02_超える_[Alexandros].txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "超える (オグリキャップ & タマモクロス Ver.)",
+      "artist": "[Alexandros]",
+      "has_synced": false,
+      "path": "select/pl_03_超える_(オグリキャップ_&_タマモクロス_Ver.)_[Alexandros].txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "超える (オグリキャップ Ver.)",
+      "artist": "[Alexandros]",
+      "has_synced": false,
+      "path": "select/pl_04_超える_(オグリキャップ_Ver.)_[Alexandros].txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "超える",
+      "artist": "[Alexandros]",
+      "has_synced": false,
+      "path": "select/pl_05_超える_[Alexandros].txt"
+    }
+  ]
+}
