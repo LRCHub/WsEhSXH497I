@@ -1,4 +1,4 @@
-# [Alexandros] – 超える
+# [Alexandros] – 超える - Koeru
 
 > **歌詞登録ステータス：同期歌詞あり**
 
